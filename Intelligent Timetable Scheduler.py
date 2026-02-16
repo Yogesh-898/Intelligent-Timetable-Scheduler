@@ -160,19 +160,19 @@ PREDEFINED_SUBJECTS = {
         "ECE": {
             "I": {
                 "theory": [
-                    {"name": "Engineering Mathematics I", "code": "MA1021", "credit": 4, "periods": 4},
-                    {"name": "Engineering Physics", "code": "PH1021", "credit": 3, "periods": 3},
-                    {"name": "Engineering Chemistry", "code": "CH1021", "credit": 3, "periods": 3},
-                    {"name": "Problem Solving and Python Programming", "code": "CS1021", "credit": 3, "periods": 3},
-                    {"name": "Engineering Graphics", "code": "GE1021", "credit": 2, "periods": 2},
-                    {"name": "Professional English I", "code": "EN1021", "credit": 2, "periods": 2},
-                    {"name": "Basic Electrical Engineering", "code": "EE1021", "credit": 3, "periods": 3},
+                    {"name": "Applied Calculas", "code": "MA25C01", "credit": 4, "periods": 4},
+                    {"name": "Applied Physics-I", "code": "PH25C01", "credit": 3, "periods": 1},
+                    {"name": "Applied Chemistry-I", "code": "CY25C01", "credit": 3, "periods": 4},
+                    {"name": "computer programming C", "code": "CS25C01", "credit": 3, "periods": 4},
+                    {"name": "Engineering Drawing", "code": "ME25C01", "credit": 4, "periods": 6},
+                    {"name": "Introduction to Mechanical Engineering", "code": "ME25C03", "credit": 3, "periods": 2},
+                    {"name": "தமிழர்மரபு / Heritage of Tamils", "code": "UC25H01", "credit": 1, "periods": 1},
+                    {"name": "English Essentials – I s", "code": "EN25C01", "credit": 2, "periods": 2},
                 ],
                 "lab": [
-                    {"name": "Physics Lab", "code": "PH1022"},
-                    {"name": "Chemistry Lab", "code": "CH1022"},
-                    {"name": "Python Programming Lab", "code": "CS1022"},
-                    {"name": "Engineering Practices Lab", "code": "GE1022"},
+                    {"name": "Makerspace", "code": "UC25A01 "},
+                    {"name": "Physical Education – I", "code": "UC25A02 "},
+                    {"name": "Physics Lab/Chemistry Lab", "code": "PH1022"},
                 ]
             },
             "II": {
@@ -281,40 +281,43 @@ PREDEFINED_SUBJECTS = {
         "Mechanical": {
             "I": {
                 "theory": [
-                    {"name": "Engineering Mathematics I", "code": "MA1021", "credit": 4, "periods": 4},
-                    {"name": "Engineering Physics", "code": "PH1021", "credit": 3, "periods": 3},
-                    {"name": "Engineering Chemistry", "code": "CH1021", "credit": 3, "periods": 3},
-                    {"name": "Problem Solving and Python Programming", "code": "CS1021", "credit": 3, "periods": 3},
-                    {"name": "Engineering Graphics", "code": "GE1021", "credit": 2, "periods": 2},
-                    {"name": "Professional English I", "code": "EN1021", "credit": 2, "periods": 2},
+                    {"name": "Applied Calculas", "code": "MA25C01", "credit": 4, "periods": 4},
+                    {"name": "Applied Physics-I", "code": "PH25C01", "credit": 3, "periods": 1},
+                    {"name": "Applied Chemistry-I", "code": "CY25C01", "credit": 3, "periods": 4},
+                    {"name": "Problem Solving and Python Programming", "code": "CS25C02", "credit": 3, "periods": 4},
+                    {"name": "Engineering Drawing", "code": "ME25C01", "credit": 4, "periods": 6},
+                    {"name": "Introduction to Mechanical Engineering", "code": "ME25C03", "credit": 3, "periods": 2},
+                    {"name": "தமிழர்மரபு / Heritage of Tamils", "code": "UC25H01", "credit": 1, "periods": 1},
+                    {"name": "English Essentials – I s", "code": "EN25C01", "credit": 2, "periods": 2},
                 ],
                 "lab": [
-                    {"name": "Physics Lab", "code": "PH1022"},
-                    {"name": "Chemistry Lab", "code": "CH1022"},
-                    {"name": "Python Programming Lab", "code": "CS1022"},
+                    {"name": "Makerspace", "code": "UC25A01 "},
+                    {"name": "Physical Education – I", "code": "UC25A02 "},
+                    {"name": "Physics Lab/Chemistry Lab", "code": "PH1022"},
                     {"name": "Engineering Graphics Lab", "code": "GE1022"},
                 ]
             },
             "II": {
                 "theory": [
-                    {"name": "Engineering Mathematics II", "code": "MA2021", "credit": 4, "periods": 4},
-                    {"name": "Engineering Mechanics", "code": "ME2021", "credit": 4, "periods": 4},
-                    {"name": "Strength of Materials", "code": "ME2022", "credit": 3, "periods": 3},
-                    {"name": "Thermodynamics", "code": "ME2023", "credit": 3, "periods": 3},
-                    {"name": "Professional English II", "code": "EN2022", "credit": 2, "periods": 2},
+                    {"name": " Linear Algebra ", "code": "MA25C02", "credit": 4, "periods": 4},
+                    {"name": "Engineering Mechanics", "code": "ME25C02", "credit": 4, "periods": 4},
+                    {"name": "Basic Electrical and Electronics Engineering", "code": "EE25C01", "credit": 3, "periods": 3},
+                    {"name": "Applied Physics (ME) – II", "code": "PH25C05", "credit": 3, "periods": 3},
+                    {"name": "Applied Chemistry (ME) – II ", "code": "CY25C03", "credit": 2, "periods": 2},
+                    {"name": "தமிழர்களும் ததொழில்நுட்பமும் /Tamils and Technology", "code": "UC25H02", "credit": 1, "periods": 1},
+                    {"name": "English Essentials – II", "code": "EN25C02", "credit": 2, "periods": 3},
                 ],
                 "lab": [
-                    {"name": "Engineering Mechanics Lab", "code": "ME2024"},
-                    {"name": "Materials Testing Lab", "code": "ME2025"},
-                    {"name": "Thermodynamics Lab", "code": "ME2026"},
+                    {"name": "Re-Engineering for Innovation", "code": "ME25C05"},
+                    {"name": "Physical Education – II", "code": "UC25A04 "},
                 ]
             },
             "III": {
                 "theory": [
-                    {"name": "Fluid Mechanics", "code": "ME3021", "credit": 4, "periods": 4},
-                    {"name": "Manufacturing Technology", "code": "ME3022", "credit": 3, "periods": 3},
-                    {"name": "Material Science", "code": "ME3023", "credit": 3, "periods": 3},
-                    {"name": "Kinematics of Machinery", "code": "ME3024", "credit": 4, "periods": 4},
+                    {"name": "Computational Differential Equations ", "code": "ME3021", "credit": 4, "periods": 4},
+                    {"name": " Applied Engineering Mechanics ", "code": "ME3022", "credit": 3, "periods": 3},
+                    {"name": "Engineering Thermodynamics", "code": "ME3023", "credit": 4, "periods": 4},
+                    {"name": "Embedded Systems", "code": "ME3024", "credit": 3, "periods": 3},
                     {"name": "Engineering Mathematics III", "code": "MA3021", "credit": 3, "periods": 3},
                 ],
                 "lab": [
