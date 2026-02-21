@@ -1266,7 +1266,7 @@ with st.sidebar:
 # MAIN HEADER
 # -------------------------------------------------
 st.markdown('<h1 class="main-header">Intelligent Timetable Scheduler</h1>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">created by CODE BLOODED | Intelligent Scheduling System</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">created by **Yogesh** | Intelligent Scheduling System</p>', unsafe_allow_html=True)
 
 # -------------------------------------------------
 # MAIN TABS
@@ -2318,7 +2318,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: gray; padding: 2rem;'>
     <p><strong>Intelligent Timetable Scheduler</strong></p>
-    <p>Created by <strong>CODE BLOODED</strong> | Powered by Streamlit</p>
+    <p>Created by <strong>Yogesh</strong> | Powered by Streamlit</p>
     <p>Features: Flexible Teacher Assignment (Max 2 subjects) • Intelligent Scheduling • Teacher Preferences • Re-generation • Analytics Dashboard</p>
 </div>
 """, unsafe_allow_html=True)
